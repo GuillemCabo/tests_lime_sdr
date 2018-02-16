@@ -152,7 +152,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>90e6</value>
+      <value>89.6e6</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -297,7 +297,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(656, 138)</value>
+      <value>(752, 554)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -309,7 +309,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>10e3</value>
+      <value>1e6</value>
     </param>
   </block>
   <block>
@@ -540,7 +540,7 @@
     </param>
     <param>
       <key>decim</key>
-      <value>4</value>
+      <value>1</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -607,7 +607,7 @@
     </param>
     <param>
       <key>decim</key>
-      <value>50</value>
+      <value>500</value>
     </param>
     <param>
       <key>_enabled</key>
